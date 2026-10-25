@@ -264,4 +264,4 @@ This repository serves as the official landing page for gedit. The software is d
 **Get the most recent version of gedit today!**
 
 ---
-**Last updated:** 2026-10-24 22:03:51 UTC
+**Last updated:** 2026-10-25 00:38:17 UTC
